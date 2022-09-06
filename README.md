@@ -1,5 +1,5 @@
--- Camille Gilchriest, Director of GIS and Data Visualization, Dallas College
--- I’m interested in labor market data and economic opportunity in the DFW Region
+-- 🗺️ Camille Gilchriest, Director of GIS and Data Visualization, Dallas College
+-- 📊 I’m interested in labor market data and economic opportunity in the DFW Region
 -- 📫 cgilchriest@dallascollege.edu
 
 <!---
