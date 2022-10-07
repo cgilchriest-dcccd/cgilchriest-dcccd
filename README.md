@@ -1,6 +1,7 @@
-Camille Gilchriest, Director of GIS and Data Visualization, Dallas College
+Camille Gilchriest  
+Director of GIS and Data Visualization, Dallas College  
 
-I’m interested in labor market data and economic opportunity in the DFW Region
+Developing spatial data tools and analyses to support Dallas College students. 
 
 cgilchriest@dallascollege.edu
 
